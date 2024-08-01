@@ -24,7 +24,7 @@ function NavItem({
       aria-label={text}
       className={cn(
         "z-10 px-5 py-2.5 bg-transparent cursor-pointer trans nav-item rounded-lg",
-        className
+        className,
       )}
       {...props}
     >
@@ -78,7 +78,7 @@ export default function Header() {
           router.push("/");
         }}
       >
-        Bowang Lan
+        Jeffrey Lan
       </span>
       <div className="flex-1"></div>
       <div>
@@ -93,7 +93,7 @@ export default function Header() {
                 duration: 300,
                 fill: "forwards",
                 easing: "ease-in-out",
-              }
+              },
             );
           }}
           onMouseLeave={() => {
@@ -106,7 +106,7 @@ export default function Header() {
                 duration: 300,
                 easing: "ease-in-out",
                 fill: "forwards",
-              }
+              },
             );
           }}
         >
@@ -134,7 +134,7 @@ export default function Header() {
                     duration: mouseInsideNav.current ? 300 : 10,
                     easing: "ease-in-out",
                     fill: "forwards",
-                  }
+                  },
                 );
                 mouseInsideNav.current = true;
               }}
@@ -148,7 +148,7 @@ export default function Header() {
                     duration: 300,
                     easing: "ease-in-out",
                     fill: "forwards",
-                  }
+                  },
                 );
                 router.push(item.href);
               }}

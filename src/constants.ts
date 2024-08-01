@@ -1,8 +1,8 @@
-export const DOMAIN = "https://bowanglan.dev";
-export const LINKEDIN_URL = "https://www.linkedin.com/in/bowang-lan-3b5759207/";
+export const DOMAIN = "https://jeffbl.dev";
+export const LINKEDIN_URL = "https://www.linkedin.com/in/jeffrey-lan";
 export const GITHUB_URL = "https://github.com/BowangLan";
 export const EMAIL_URL = "mailto:blan2@uw.edu";
-export const RESUME_URL = "/Bowang Lan Resume.pdf";
+export const RESUME_URL = "/Jeffrey Lan Resume.pdf";
 
 export const COLOR_TEXT = "rgb(239, 242, 250)";
 export const COLOR_BACKGROUND = "rgb(7, 9, 13)";

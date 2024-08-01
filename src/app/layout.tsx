@@ -16,13 +16,9 @@ const Particles = dynamic(() => import("@/components/Particles"), {
 });
 
 export const metadata = {
-  title: "Bowang Lan",
+  title: "Jeffrey Lan",
   description:
-    "Bowang Lan is a software engineer based in Seattle, WA and a student at University of Washington.",
-  visualViewport: {
-    width: "device-width",
-    initialScale: 1.0,
-  },
+    "Jeffrey Lan is a software engineer, founder, and student at University of Washington based in Seattle.",
 };
 
 export default function RootLayout({

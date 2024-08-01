@@ -22,7 +22,7 @@ export default async function Home() {
           <h1 className="text-[2rem] text-center tracking-normal sm:text-[2.5rem] md:text-[3.25rem] lg:text-[3.5rem] 2xl:text-[4rem] sm:tracking-wider">
             Hello, {"I'm "}
             <span className="font-bold primary-gradient">
-              Bowang (Jeffrey) Lan
+              Jeffrey Lan
             </span>
           </h1>
           <div className="text-base tracking-wide text-center lg:pt-3 sm:text-xl md:text-2xl text-slate-300">

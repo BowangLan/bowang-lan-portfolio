@@ -15,7 +15,7 @@ export const NICE_CUBIC = [0.19, 1, 0.22, 1];
 export const SANITY_CDN = "https://cdn.sanity.io";
 
 export const ABOUT_ME_TEXT = [
-  "I'm currently a full-stack software engineer, startup founder, and a forth-year student at the University of Washington majoring in <span style='color: var(--primary-400-rgb); font-weight: 600'>Astronomy</span>. My main specialty is web development, specifically React, Next.js, and the Node.js ecosystem. Over the past few years, I gradually transitioned from building web apps as side projects to building applications for real-world use cases and finally to building startups. I also dabble in some Python, doing some web scraping and data analysis here and there.",
+  "I'm currently a full-stack software engineer, startup founder, and forth-year student at the University of Washington majoring in <span style='color: var(--primary-400-rgb); font-weight: 600'>Astronomy</span>. My main specialty is web development, specifically React, Next.js, and the Node.js ecosystem. Over the past few years, I gradually transitioned from building web apps as side projects to building applications for real-world use cases and finally to building startups. I also dabble in some Python, doing some web scraping and data analysis here and there.",
   "<span class='primary-gradient-2' style='font-weight: 700'>I'm currently looking for full-time software engineering opportunities during summer and fall 2024, and part-time SDE positions starting right now. If you're interested in working with me, feel free to reach out!</span>",
 ];
 

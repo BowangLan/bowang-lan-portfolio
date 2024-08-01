@@ -26,7 +26,7 @@ export default async function Home() {
             </span>
           </h1>
           <div className="text-base tracking-wide text-center lg:pt-3 sm:text-xl md:text-2xl text-slate-300">
-            A full-stack software engineer and data scientist
+            Full-Stack Software Engineer and Founder
           </div>
           <div className="text-sm italic font-bold tracking-wide text-center md:text-base lg:text-lg primary-gradient-2">
             Actively looking for full-time SDE positions starting in June 2024!
